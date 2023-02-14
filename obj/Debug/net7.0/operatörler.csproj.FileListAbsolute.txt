@@ -1,0 +1,15 @@
+C:\Users\casper\Desktop\programlama\operatörler\bin\Debug\net7.0\operatörler.exe
+C:\Users\casper\Desktop\programlama\operatörler\bin\Debug\net7.0\operatörler.deps.json
+C:\Users\casper\Desktop\programlama\operatörler\bin\Debug\net7.0\operatörler.runtimeconfig.json
+C:\Users\casper\Desktop\programlama\operatörler\bin\Debug\net7.0\operatörler.dll
+C:\Users\casper\Desktop\programlama\operatörler\bin\Debug\net7.0\operatörler.pdb
+C:\Users\casper\Desktop\programlama\operatörler\obj\Debug\net7.0\operatörler.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\programlama\operatörler\obj\Debug\net7.0\operatörler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\programlama\operatörler\obj\Debug\net7.0\operatörler.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\programlama\operatörler\obj\Debug\net7.0\operatörler.AssemblyInfo.cs
+C:\Users\casper\Desktop\programlama\operatörler\obj\Debug\net7.0\operatörler.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\programlama\operatörler\obj\Debug\net7.0\operatörler.dll
+C:\Users\casper\Desktop\programlama\operatörler\obj\Debug\net7.0\refint\operatörler.dll
+C:\Users\casper\Desktop\programlama\operatörler\obj\Debug\net7.0\operatörler.pdb
+C:\Users\casper\Desktop\programlama\operatörler\obj\Debug\net7.0\operatörler.genruntimeconfig.cache
+C:\Users\casper\Desktop\programlama\operatörler\obj\Debug\net7.0\ref\operatörler.dll
